@@ -5,7 +5,7 @@ How to find Github folder in Windows
 * Open Github > Github tutorial
 
 # How to commit changes and sync with github.com
-* Go to the giihub-app and sync
+* Go to the github-app and sync
 * Then open the folder by following the steps above and find the file you want to edit
 * Open the file and edit whatever you want to.
 * Then save the file.
