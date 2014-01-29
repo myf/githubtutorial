@@ -13,3 +13,4 @@ How to find Github folder in Windows
 * Write a comment and the description of why you commit the change
 * You commit the change
 * You then Sync.
+* preyewokoro@gmail.com and chrisodiachi@googlemail.com
